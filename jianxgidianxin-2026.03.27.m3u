@@ -129,8 +129,7 @@ rtsp://115.153.245.70/PLTV/88888888/224/3221226984/85722645.smil
 rtsp://115.153.245.70/PLTV/88888888/224/3221225591/iptv7986.smil
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",黑龙江卫视
 rtsp://115.153.245.70/PLTV/88888888/224/3221225584/10000100000000060000000000031778_0.smil
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV4.png" group-title="4K频道",CCTV4K
-http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
+
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV4.png" group-title="4K频道",CCTV4K
 rtsp://115.153.245.70/PLTV/88888888/224/3221227073/106537394.smil
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV4.png" group-title="4K频道",CCTV4K
